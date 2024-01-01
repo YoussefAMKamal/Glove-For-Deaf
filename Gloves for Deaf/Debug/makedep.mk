@@ -1,0 +1,16 @@
+################################################################################
+# Automatically-generated file. Do not edit or delete the file
+################################################################################
+
+APP\main.c
+
+HAL\Glove\Glove_Interface.c
+
+HAL\LCD\LCD_Interface.c
+
+MCAL\ADC\ADC_Interface.c
+
+MCAL\DIO\DIO_Interface.c
+
+MCAL\External_Interrupt\External_Interrupt_Interface.c
+
