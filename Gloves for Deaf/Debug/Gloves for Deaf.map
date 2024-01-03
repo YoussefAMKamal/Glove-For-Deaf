@@ -53,21 +53,6 @@ Discarded input sections
                 0x00000000       0x5c MCAL/DIO/DIO_Interface.o
  .text.DIO_SetPin_PullUp
                 0x00000000       0x68 MCAL/DIO/DIO_Interface.o
- .text          0x00000000        0x0 MCAL/External_Interrupt/External_Interrupt_Interface.o
- .data          0x00000000        0x0 MCAL/External_Interrupt/External_Interrupt_Interface.o
- .bss           0x00000000        0x0 MCAL/External_Interrupt/External_Interrupt_Interface.o
- .text.EXTERNAL_INTERRUPT_Init
-                0x00000000       0xb2 MCAL/External_Interrupt/External_Interrupt_Interface.o
- .debug_info    0x00000000      0x12b MCAL/External_Interrupt/External_Interrupt_Interface.o
- .debug_abbrev  0x00000000       0x85 MCAL/External_Interrupt/External_Interrupt_Interface.o
- .debug_loc     0x00000000       0xd0 MCAL/External_Interrupt/External_Interrupt_Interface.o
- .debug_aranges
-                0x00000000       0x20 MCAL/External_Interrupt/External_Interrupt_Interface.o
- .debug_ranges  0x00000000       0x10 MCAL/External_Interrupt/External_Interrupt_Interface.o
- .debug_line    0x00000000      0x1a2 MCAL/External_Interrupt/External_Interrupt_Interface.o
- .debug_str     0x00000000      0x264 MCAL/External_Interrupt/External_Interrupt_Interface.o
- .comment       0x00000000       0x31 MCAL/External_Interrupt/External_Interrupt_Interface.o
- .debug_frame   0x00000000       0x24 MCAL/External_Interrupt/External_Interrupt_Interface.o
  .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
  .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
  .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
@@ -179,7 +164,6 @@ LOAD HAL/Glove/Glove_Interface.o
 LOAD HAL/LCD/LCD_Interface.o
 LOAD MCAL/ADC/ADC_Interface.o
 LOAD MCAL/DIO/DIO_Interface.o
-LOAD MCAL/External_Interrupt/External_Interrupt_Interface.o
 START GROUP
 LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
 END GROUP

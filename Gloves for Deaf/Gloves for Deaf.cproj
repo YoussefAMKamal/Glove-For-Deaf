@@ -132,7 +132,6 @@
       <Value>../MCAL/ADC</Value>
       <Value>../MCAL/Configurations</Value>
       <Value>../MCAL/DIO</Value>
-      <Value>../MCAL/External_Interrupt</Value>
       <Value>../MCAL/TIMER0</Value>
       <Value>../MCAL/TIMER0/OVF</Value>
     </ListValues>
@@ -211,18 +210,6 @@
     <Compile Include="MCAL\DIO\DIO_Private.h">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="MCAL\External_Interrupt\External_Interrupt_Address.h">
-      <SubType>compile</SubType>
-    </Compile>
-    <Compile Include="MCAL\External_Interrupt\External_Interrupt_Configurations.h">
-      <SubType>compile</SubType>
-    </Compile>
-    <Compile Include="MCAL\External_Interrupt\External_Interrupt_Interface.c">
-      <SubType>compile</SubType>
-    </Compile>
-    <Compile Include="MCAL\External_Interrupt\External_Interrupt_Private.h">
-      <SubType>compile</SubType>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="APP" />
@@ -233,7 +220,6 @@
     <Folder Include="MCAL\ADC\" />
     <Folder Include="MCAL\Configurations\" />
     <Folder Include="MCAL\DIO\" />
-    <Folder Include="MCAL\External_Interrupt\" />
   </ItemGroup>
   <Import Project="$(AVRSTUDIO_EXE_PATH)\\Vs\\Compiler.targets" />
 </Project>

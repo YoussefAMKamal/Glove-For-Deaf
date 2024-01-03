@@ -15,7 +15,6 @@
 #include <util/delay.h>
 #include "BIT_Math.h"
 #include "DIO_Private.h"
-#include "External_Interrupt_Private.h"
 #include "ADC_Private.h"
 //#include "CTC_Private.h"
 //#include "OVF_Private.h"

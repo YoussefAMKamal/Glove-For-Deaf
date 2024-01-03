@@ -499,7 +499,7 @@ uint8_t* Glove_Result(void)
 {
 	uint8_t *num;
 	num = malloc(sizeof(number)/4);
-	ltoa((long)number,(char*)num,10);
+	ltoa(number,num,10);
 	LCD_Write_String(num);
 }
  2da:	cf 93       	push	r28

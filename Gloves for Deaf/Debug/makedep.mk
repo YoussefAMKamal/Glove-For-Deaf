@@ -12,5 +12,3 @@ MCAL\ADC\ADC_Interface.c
 
 MCAL\DIO\DIO_Interface.c
 
-MCAL\External_Interrupt\External_Interrupt_Interface.c
-

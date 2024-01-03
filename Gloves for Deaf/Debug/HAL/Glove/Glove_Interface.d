@@ -18,9 +18,6 @@ HAL/Glove/Glove_Interface.d HAL/Glove/Glove_Interface.o: \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\math.h \
  ../MCAL/Configurations/BIT_Math.h ../MCAL/DIO/DIO_Private.h \
  ../MCAL/DIO/DIO_Configurations.h ../MCAL/DIO/DIO_Address.h \
- ../MCAL/External_Interrupt/External_Interrupt_Private.h \
- ../MCAL/External_Interrupt/External_Interrupt_Configurations.h \
- ../MCAL/External_Interrupt/External_Interrupt_Address.h \
  ../MCAL/ADC/ADC_Private.h ../MCAL/ADC/ADC_Configuration.h \
  ../MCAL/ADC/ADC_Address.h
 
@@ -65,12 +62,6 @@ c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\
 ../MCAL/DIO/DIO_Configurations.h:
 
 ../MCAL/DIO/DIO_Address.h:
-
-../MCAL/External_Interrupt/External_Interrupt_Private.h:
-
-../MCAL/External_Interrupt/External_Interrupt_Configurations.h:
-
-../MCAL/External_Interrupt/External_Interrupt_Address.h:
 
 ../MCAL/ADC/ADC_Private.h:
 
