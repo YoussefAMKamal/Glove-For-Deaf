@@ -4,7 +4,6 @@
 #include "LCD_Configuration.h"
 
 void LCD_Init(void);
-
 void LCD_Write_Command(uint8_t command);
 void LCD_Write_Character(uint8_t character);
 void LCD_Write_String(uint8_t* str);
