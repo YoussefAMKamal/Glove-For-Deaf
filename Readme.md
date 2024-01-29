@@ -7,5 +7,5 @@ This is the connection of each sensor.
 
 ## Flowchart
 <p align="center">
-<img width="200" src="https://github.com/YoussefAMKamal/Glove-For-Deaf/assets/113982207/2bb6ade7-e76e-4f41-ae74-b3878322dc65" alt="FlowChart">
+  <img width="1000" src="https://github.com/YoussefAMKamal/Glove-For-Deaf/assets/113982207/2bb6ade7-e76e-4f41-ae74-b3878322dc65" alt="FlowChart">
 </p>
